@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T17:20:32.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="tD5U4bp7RbAEwVKeIqxa" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T17:33:17.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="zxuUSX3JjCMBDGzmfWJ3" version="15.2.9" type="github">
   <diagram id="KLR43Nf2Q2VTOt2N-Sa0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,13 +29,40 @@
           <mxGeometry x="355" y="350" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="msBf11ZiH9tuAGImeggO-10" value="New Vehicle Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="msBf11ZiH9tuAGImeggO-11" value="Sales Order Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="425" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="msBf11ZiH9tuAGImeggO-12" value="Repair Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="100" height="30" as="geometry" />
+          <mxGeometry x="540" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-13" value="Sales by Color Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-14" value="Sales by Type Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-16" value="Sales by Manufacturer Report&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-17" value="Gross Customer Income Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-18" value="Repairs by Manufacturer/Type/Model&lt;br&gt;Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-20" value="Below Cost Sales Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-21" value="Average Time in Inventory Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-22" value="Parts Statistics Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-23" value="Monthly Sales Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="385" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
