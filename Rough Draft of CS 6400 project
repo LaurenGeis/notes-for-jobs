@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T17:13:36.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yDnjHCYmETdkS2CiNz0J" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T17:20:32.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="tD5U4bp7RbAEwVKeIqxa" version="15.2.9" type="github">
   <diagram id="KLR43Nf2Q2VTOt2N-Sa0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,15 @@
         </mxCell>
         <mxCell id="msBf11ZiH9tuAGImeggO-9" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="355" y="350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-10" value="New Vehicle Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-11" value="Sales Order Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="msBf11ZiH9tuAGImeggO-12" value="Repair Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
