@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T18:48:50.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="L_xE_UUWwyN7aY_tR4RA" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T19:01:56.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="TrwFKGnk3nLAzacCMEIA" version="15.3.1" type="github">
   <diagram id="KLR43Nf2Q2VTOt2N-Sa0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="375" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="msBf11ZiH9tuAGImeggO-18" value="Repairs by Manufacturer/Type/Model&lt;br&gt;Report" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="580" width="140" height="40" as="geometry" />
+          <mxGeometry x="150" y="550" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="msBf11ZiH9tuAGImeggO-20" value="Below Cost Sales Report" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="467.5" width="120" height="40" as="geometry" />
